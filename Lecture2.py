@@ -19,8 +19,9 @@
 #print('hello '+'world')
 #print(1+2) #Simple addition but also subraction, multiplication, division, etc.
 
-my_num=123
-print(my_num)
+#my_num=123
+#print(my_num)
 
-my_num=234
-print(my_num)
+#my_num=234
+#print(my_num)  #will print both numbers if two is presented also if you add +1 after my_num it will add the 1 onto the number value
+
