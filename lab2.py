@@ -36,6 +36,5 @@ print(my_id*3)
 print('hello, world. This is my first python string.'.split('.'))
 
 #6.10
-#No because of the ' and " being in the wrong format and not agreeing
+#No because of the ' and " being in the wrong format and not agreeing, correct format is below
 message="Tom's id is 123"
-print(message)
