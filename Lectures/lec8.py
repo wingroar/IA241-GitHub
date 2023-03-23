@@ -63,3 +63,6 @@ def cal_p(m,n):
     return cal_f(m)/cal_f(m-n)
 
 print(cal_p(5,3))
+
+import lec9
+print(my_highlander.report())
